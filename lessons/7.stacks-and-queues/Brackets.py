@@ -1,6 +1,6 @@
 # https://codility.com/programmers/lessons/7-stacks_and_queues/
-# TC:
-# SC:
+# TC: O(N)
+# SC: O(1)
 # python 2.7.13
 
 def solution(S):
